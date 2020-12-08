@@ -1,0 +1,35 @@
+Version 2 Change Log
+===================================
+-Added 2016 Ford Explorer Slicktop
+-Added 2017 Chevy Silverado
+-Updated all cars siderunners to high quality TIR6 ones
+-Fixed 14 Charger spotlight texture
+-Fixed VCF's having no front environmental lighting on slicktops
+-Small edit to vehicles.meta for realistic handling to all vehicles
+-Reverted FPIS taillights to original 
+-Updated credits
+-Updated screenshots
+
+
+Version 1.2 (Discord Release)
+===================================
+-Fixed the speedometer textures
+-Compressed all the .ytds for FIVEM usage. (16 FPIU will not work)
+
+
+
+Version 1.1 Change Log
+===================================
+-Fixed Tahoes wobbly wheels
+-Dettached both chargers brake disc, no longer spin with the wheel
+-Adjusted 16 chargers right sideded wheels from the body
+-Added in FPIS light bar takedown
+-Changed the 16 charger rims
+-Made ALPRs to extra_10
+-Removed blue thin flag from the undercover FPIU texture
+-Added in a CVPI wraparound, extra_12
+-Made all the rims more glossy, no longer dull matte
+-Added the chrome rim center piece back to the FPIS
+-Small update to POLICE VCF for the wraparound
+-Updated the main cars screenshots
+

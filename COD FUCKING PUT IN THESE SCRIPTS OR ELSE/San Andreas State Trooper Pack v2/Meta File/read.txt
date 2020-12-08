@@ -1,0 +1,5 @@
+Grand Theft Auto V\mods\update\update.rpf\common\data\levels\gta5
+
+Changes to this meta include:
+-No black tint for any police vehicles
+-Change to realistic handling lines name for each respected police slot

@@ -1,0 +1,227 @@
+Car Base Models
+==========================
+2011 Ford Crown Victoria Police Interceptor
+Model from Forza horzion 3 ripped by DMN
+Hevaily Edited by 0taku
+Converted for use in V by 0taku
+Texutered by 0taku
+Steelrims and Hub by 0taku
+texuters by 0taku
+Tire by 0taku
+texuters by EVI with edits by 0taku
+Weather Shields by 0taku
+Unity spotlight by 0taku
+texuers by 0taku
+
+2014 Dodge Charger
+2013 Charger SRT8 from Forza Horizon 
+Converted and textured by Thehurk
+Converted to PPV by Thehurk
+Templated by Thehurk
+Weather Shields by 0taku, edited by Torz
+Taillight textures by Five0, edited by Torz
+Headlights slightly modified Torz
+
+2014 Chevy Tahoe
+2007 Tahoe by someone on 3dCadBrowser
+Modifed into 2014 and converted to GTA V by OfficerUnderwood
+Interior by ShadyDK14, fitted by Peralta, edited by Peralta and OfficerUnderwood with parts by Ubisoft
+Light textures by Peralta
+Mirrors & door handles by Ubisoft, fitted by Peralta
+Center area, steering wheel, door arm rests, & seats by Ubisoft, edited by OfficerUnderwood.
+Wheels by BxBugs123
+Weather Shields by 0taku, edited by Torz
+
+2016 Dodge Charger
+Base model extracted by DMN from Forza Horizon 2
+Converted and textures by Thehurk
+Converted to PPV By Thehurk
+AWD Rims scratch modeled and converted By RoegonTV
+AWD Logo by IronicRainbow
+Weather Shields by 0taku, edited by Torz
+
+2016 Ford Explorer
+Ford explorer Base model purchased by Thehurk, GTAxB0SS, Requiem and Windows446
+Poly Crunched, Textured, Converted by Thehurk. 
+Interior purchased by TrentMU and FRGamer
+Textures by Taylor Swift, Thehurk, & OfficerUnderwood
+Heavily edited this piece of shit into a polished piece of shit by OfficerUnderwood
+Rims by BxBugs123, Centercap by Carper
+Interceptor Hood text by GTAxB0SS
+
+
+2016 Ford Taurus
+2010 Ford Taurus SHO by Turn 10 Studios, modified into 2016 Ford Taurus Police Interceptor by OfficerUnderwood
+Rear bumper, headlamps, & dash by be fast, modified by OfficerUnderwood & Carper
+Front bumper by Ridgerunner, Grill by Vertex3D, modified by OfficerUnderwood
+Chassis parts by Ubisoft, Reverse lights by OfficerUnderwood
+Rims by BxBugs123, Centercap by Carper
+Weather Shields by 0taku, edited by Torz
+
+
+Outside Equipment
+==========================
+----Antennas----
+Antennas Plus LTE Cell PCS GPS scratch modeled by Five0/OfficerFive0
+converted to gta 5 by Five0/OfficerFive0
+
+Credits to Laird for their design 
+Laird Phantom Antenna Modeled, Textured by VooDoo. Textures by VooDoo. Converted to V by VooDoo
+
+Laird Long Antenna
+Modeled and textured by eknjack
+
+Antenna Pack
+Model/Texture Raptor2000
+
+CB Antenna Base
+Model/Texture - Deadspin
+
+Generic Antenna
+Generic Antennas by Twurtleee
+
+----Pushbars----
+CVPI GoRhino
+GoRhino CVPI Wraparound by Carper, Textures by Carper
+
+Setina Pushbar
+Created, textured, rendered and converted by BFRS-EMT!
+
+Tahoe Pushbar
+Tahoe Setina Pushbar by NickieB
+
+2016 Charger Pushbar
+2014 & 2015 CHARGER WESTIN PURSUIT PIT by Carper, Textures by Carper
+
+2014 Charger GoRhino Wraparound
+GoRhino 2014 Charger Wraparound by Carper, Textures by Carper
+
+2016 FPIU
+Made by Husky
+
+----ALPR----
+MPH900
+Modeled by Joshua Tanner
+Taxtures by Jakub 
+
+Skinny ALPR
+MPH900 ALPR modeled and textured by tomcat8492
+
+----Pushbar Lightbar----
+Spot/Floodlights pack made by krul - only on GPM
+Tir3 emis textures by FiveO
+
+----Spotlights----
+Spotlight Created By Turn10Studios; Converted And Edited By Shmurda
+Soundoff PAR46 LED Insert Created By Shmurda
+Spotlight Mounting Bracket From GameModels.RU
+Textures By Shmurda
+
+----Mudflaps----
+Crown Victoria Mudflaps Modelled and Textured by - Jakub
+
+----Speaker----
+Whelen SA315P speaker made by krul
+
+Interior Equipment
+==========================
+Main Console
+Modeled and Textures Unknown
+Portable Radio Converted from 3dsmax to obj HP Deskjet/Arty
+Toughbook Cap'n Crunch, JBD
+
+Stalker Radar
+Stalker Dual DSR + Dual button display - HP Deskjet
+
+Cargo Partition
+D&R Electronics Cargo Partition modeled by tomcat8492
+
+Setina Partition
+Credits to Setina for their design 
+Setina Prisoner Partition Modeled, Textured by Cap'n Crunch. Textures by Cap'n Crunch. Converted to V by VooDoo
+
+MVI Sticker
+Modeled and Tex by Horseman
+
+PX-2 Camera
+Modeled by Dan with da Van
+
+EZPass
+EZPass Modeled And Textured by - Jakub
+
+K9 Window Bars
+K9 Window Bars modeled and textured by tomcat8492
+Texture Edit by Torz
+
+Cabinet Unknown
+
+Lighting
+==========================
+Whelen Legacy
+Whelen Legacy scratch modeled by Five0/OfficerFive0
+converted to gta 5 by Five0/OfficerFive0
+tir texture by Five0/OfficerFive0
+groove, reflector and screw textures by neonlazer
+emis textures by CJ24, edited by stienberg
+
+Code 3 XT
+Code 3 XT Stik Series lights made by krul
+tir3 emis by FiveO
+
+Ion Hood Mount
+Modeled by Zakariah
+Whelen ION Series Super-LED scratch modeled, textured, and converted to GTA V by HDgamerzPC
+
+MR6TC
+MR6TC made by krul
+Emis textures for the MR6TC by OfficerFiveO
+
+LIN3/LIN6
+Whelen Tir3/Lin3/Lin6 scratch modeled by Five0/OfficerFive0
+converted to gta 5 by Five0/OfficerFive0
+
+Z-6 Linear
+Z-6 Linear LED Surface Mount scratch modeled, textured and converted by panos_zaf. 
+
+Wingman
+Code 3 Wingman made by krul
+Edited by Torz
+
+Whelen Dom
+Whelen Linz6 Module scratch modeled by Five0/OfficerFive0
+Whelen Tir3 Module scratch modeled by Five0/OfficerFive0
+Whelen Dominator scratch modeled by Five0/OfficerFive0
+converted to gta 5 by Five0/OfficerFive0
+
+Single Avg
+Whelen Avenger® Super-LED® Dash Light scratch modeled, textured, and converted to GTA V by HDgamerzPC
+
+Viper
+Federal Signal, TraumaPak for 3D
+
+Vertex
+Whelen Vertex scratch modeled by Five0/OfficerFive0
+converted to gta 5 by Five0/OfficerFive0
+
+Tahoe Outeredge
+Turtle
+
+CVPI Third Brake
+Modeled and mapped by halopcdraco
+Coverted by KMiller
+
+Micron
+Whelen Micron™ Series Super-LED® Lighthead scratch modeled, textured, and converted to GTA V by HDgamerzPC
+
+Soundoff Intersector Mirror
+Modelled & textured by RobertTM
+-Emissive Textures by Black Jesus
+
+Interior Lightbar
+LINZ6 Light Modules: Scratch Modeled by Five0
+LINZ6 Texture: Five0
+
+HG2 Siderunners
+EVI
+
+Sorry if I missed anyone
